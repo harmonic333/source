@@ -1,4 +1,4 @@
-# sourcetheory
+# sourceformula
 A compression based theory of everything. 
 
 

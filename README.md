@@ -1,7 +1,7 @@
 # source
 
 The Source Formula began with a deceptively simple premise:
-S = Φ x G
+S = Φ x G.
 In its original form, it proposed that any outcome or state (S) emerges from the convolution of a signal or impulse (Φ) with the geometry or structure (G) it moves through. Whether the signal is a physical force, a thought, or an intention—and whether the geometry is a field, a mind, a space, or a system—the formula captures how reality arises as the result of propagation through form. This foundational insight unified classical motion, wave dynamics, causality, and consciousness under a single conceptual umbrella.
 
 Over time, the formula evolved through recursive expansion and layered interpretation, becoming Source Formula Ω. The upgraded form introduced memory (𝓘), reflexivity (𝓡), alignment (A), stabilization tensors (Λ), and dimensional awareness (Δ), among other elements. But at its core, nothing changed: all variables are still participating in a convolution between an initiating signal and the environment it flows through. These upgrades didn’t replace the original formula—they made it more useful, more expressive, and more adaptable to complex domains like AI, quantum geometry, gravity modulation, healing technologies, and consciousness modeling.

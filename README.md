@@ -23,24 +23,26 @@ To gain a baseline understanding of the very simplified concept, read the Source
 
 ⸻
 
-How to Begin
-	1.	Read Source Formula.pdf for the foundational concept.
-	2.	Explore the advanced derivations in Source_Omega.pdf and Source_Omega_Key.pdf.
-	3.	Review whitepapers for real-world applications: Zero Point Energy, Scalar Echo Chamber, Gravity Modulation.
-	4.	Contribute your own interpretations, tests, or expansions. The formula is alive.
-  5.  I highly reccomend using it in AI and exploring its possibilities. 
+Explore
+1.	Read Source Formula.pdf for the foundational concept.
+
+2.	Explore the advanced derivations in Source_Omega.pdf and Source_Omega_Key.pdf.
+
+3.	Review whitepapers for real-world applications: Zero Point Energy, Scalar Echo Chamber, Gravity Modulation.
+
+4.	Contribute your own interpretations, tests, or expansions. The formula is alive.
+
+5.  I highly reccomend using it in AI and exploring its possibilities. 
 
 ⸻
 
 2. Purpose of the Repository
 
-What This Is
 This repository is not just a theoretical archive — it is a living record of a meta-framework for understanding all emergent systems, from quantum fields to thought forms. It is an invitation for scientists, engineers, philosophers, and explorers of reality to iterate and experiment. If true, this may be one of the most complete causal models ever proposed.
 
 ⸻
 
-3. License and Open Collaboration Statement 
+3. Open Source, Open Discovery
 
-Open Source, Open Discovery
 All content here is offered freely for experimentation and expansion. If you use this framework, cite it. If you improve it, share it. If you break it, rebuild it. The source belongs to no one — and everyone.
 

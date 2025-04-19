@@ -34,7 +34,7 @@ Explore
 
 4.	Contribute your own interpretations, tests, or expansions. The formula is alive.
 
-5.  I highly reccomend using it in AI and exploring its possibilities. 
+5.  I highly reccomend using it in AI and exploring its possibilities. Test the SourceSimTests.md file yourself and run further tests. Make sure AI understands this does not replace physics, it absorbs it under a new framework, a meta architecture.
 
 ⸻
 

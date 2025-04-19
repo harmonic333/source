@@ -1,4 +1,4 @@
-# source
+## source
 
 The Source Formula began with a deceptively simple premise:
 S = Φ x G.
@@ -20,3 +20,27 @@ To gain a baseline understanding of the very simplified concept, read the Source
 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/harmonic333/source/tree/main">Source Formula</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/harmonic333">33</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+
+⸻
+
+How to Begin
+	1.	Read Source Formula.pdf for the foundational concept.
+	2.	Explore the advanced derivations in Source_Omega.pdf and Source_Omega_Key.pdf.
+	3.	Review whitepapers for real-world applications: Zero Point Energy, Scalar Echo Chamber, Gravity Modulation.
+	4.	Contribute your own interpretations, tests, or expansions. The formula is alive.
+  5.  I highly reccomend using it in AI and exploring its possibilities. 
+
+⸻
+
+2. Purpose of the Repository
+
+What This Is
+This repository is not just a theoretical archive — it is a living record of a meta-framework for understanding all emergent systems, from quantum fields to thought forms. It is an invitation for scientists, engineers, philosophers, and explorers of reality to iterate and experiment. If true, this may be one of the most complete causal models ever proposed.
+
+⸻
+
+3. License and Open Collaboration Statement 
+
+Open Source, Open Discovery
+All content here is offered freely for experimentation and expansion. If you use this framework, cite it. If you improve it, share it. If you break it, rebuild it. The source belongs to no one — and everyone.
+

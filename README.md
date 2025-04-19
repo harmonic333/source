@@ -12,6 +12,8 @@ The core concept of the Source Formula—signal convolved with structure—has c
 
 I will leave the philosophical and spiritual implications of this math to those who dare to discover it. Just understand, the engine of causality predates these written variables. Without the spiritual aspect, you lack full understanding. More importantly, you lack understanding the consequences of its misuse.
 
+As with anything, this remains on the spectrum of polarity. Things are neither right or wrong, but a degree of them. Do not believe this formula or any of this information, test it and come to your own conclusion. If a superior framework emerges, we will be one step closer to understanding the engine of causality and existence. 
+
 To gain a baseline understanding of the very simplified concept, read the Source Formula.pdf to start.
 
 33
